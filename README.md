@@ -1,5 +1,7 @@
 # vague-quiet.nvim
 
+<img alt="Preview" src="./preview.png" />
+
 A quiet, near-monochrome Neovim colorscheme based on
 [vague.nvim](https://github.com/vague-theme/vague.nvim).
 
